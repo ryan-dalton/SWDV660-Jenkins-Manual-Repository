@@ -6,7 +6,6 @@ toppings or create custom pizzas.  Size, crust and toppings are taken into accou
 base price based on number of toppings / crust and size.
 
 Pizza factory puts all this together.
-
 """
 
 class Pizza():
@@ -151,8 +150,5 @@ def main():
     pp4 = factory.createCustom("Medium", "calzone", "ricotta", "spinach", "arugla")
     for i in [pp1, pp2, pp3, pp4]:
         print(i)
-    
-        
-    
     
 main()
