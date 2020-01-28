@@ -1,2 +1,3 @@
 # SWDV660-Jenkins-Manual-Repository
-Repository to test manual jenkins job
+Ryan Dalton - Week 3 - SWDV660
+Repository to test manual Jenkins job
